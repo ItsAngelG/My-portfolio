@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f9fd;
+}
+
+nav{
+    padding: 20px;
+    text-align: center;
+}
+
+#about {
+    padding: 200px;
+    background-color: #98c4eb;
+    border-style: inset;
+    border-color:black;
+}   
+
+#projects {
+    padding: 100px;
+    text-align: center;
+    background-color: #1888dd;
+}   
+
+#tech {
+    padding: 100px;
+    text-align: center;
+    background-color: #98c4eb;
+}
+
+#contact {
+    padding: 100px;
+    text-align: center;
+    background-color: #1888dd;
+}
