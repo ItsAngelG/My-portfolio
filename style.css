@@ -13,8 +13,25 @@ nav{
     text-align: center;
 }
 
+h2 {
+    text-align: center;
+    height: 200px;
+    font-family: 'Silkscreen', san-serif;
+    font-weight: 400;
+    font-size: 50px;
+    color: #ffffff;
+}
+
+.about-me {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    height: 200px;
+    margin-bottom: 100px;
+}
+
 #about {
-    padding: 200px;
     background-color: #98c4eb;
     border-style: inset;
     border-color:black;
@@ -22,7 +39,6 @@ nav{
 
 #projects {
     padding: 100px;
-    text-align: center;
     background-color: #1888dd;
 }   
 
