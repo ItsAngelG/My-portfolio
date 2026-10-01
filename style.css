@@ -15,11 +15,12 @@ nav{
 
 h2 {
     text-align: center;
-    height: 200px;
+    padding: 10px;
     font-family: 'Silkscreen', san-serif;
     font-weight: 400;
     font-size: 50px;
     color: #ffffff;
+    margin-top: 20px;
 }
 
 .about-me {
@@ -29,6 +30,13 @@ h2 {
     font-size: 20px;
     height: 200px;
     margin-bottom: 100px;
+}
+
+.boarder {
+    position: absolute;
+    top: 260px;
+    right: 50px;
+    width: 300px;
 }
 
 #about {
